@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hussain
+### Hey 👋 I'm Hussain
 
 <!--
 **Hussain-Adel/Hussain-Adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
