@@ -1,5 +1,8 @@
 ### Hey 👋 I'm Hussain
 
+I like tinkering with software, hardware, and everything in between.  
+You’ll usually find me exploring Linux, open-source tools, and small projects that make everyday tech easier to use.
+
 <!--
 **Hussain-Adel/Hussain-Adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
